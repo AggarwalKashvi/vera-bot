@@ -1,4 +1,4 @@
-# Vera Bot — magicpin AI Challenge Submission
+# Vera Bot 
 
 ## Approach
 
