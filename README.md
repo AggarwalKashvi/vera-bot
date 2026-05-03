@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Vera Bot — magicpin AI Challenge Submission
+=======
+# Vera Bot 
+>>>>>>> 4c443831d964e0c88da1fe675a2612684232c547
 
 ## Approach
 
